@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 The stupid boss again.
 test new branch.
 Createing a new branch is quicn AND simple.
+1
