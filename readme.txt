@@ -5,3 +5,4 @@ The stupid boss again.
 test new branch.
 Createing a new branch is quicn AND simple.
 1
+Continue, test stash.
